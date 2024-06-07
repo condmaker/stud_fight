@@ -13,7 +13,7 @@ then observes each of their messages and reacts accordingly (be it moving to
 the next turn, ending the game since a player has died, etc...). Each client
 will then be notified of this state.
 
-The server was made with sockets that run the **TCP protocol**-- so we can keep
+The server was made with sockets that run with the **TCP protocol**-- so we can keep
 track and send information reliably to both clients. As refereed above each
 thread also runs on their separate sockets to improve reactions to client
 messaging.
