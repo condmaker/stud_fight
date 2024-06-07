@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QQB+kH2mkHptXhXyARt76DQxUoABaZgExO67lrAjLZocO5CcuI9SpUpDhXH9fViEu2vvObLmS2awWiRjaGwB2Q==",
+  "success": true,
+  "projectFilePath": "C:\\UnityProjects\\StudFight\\Server\\Source\\StudFightServer\\StudFightServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The Condmaker\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

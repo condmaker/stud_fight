@@ -1,0 +1,15 @@
+C:\Users\The Condmaker\source\repos\StudFightServer\StudFightServer\bin\Debug\net5.0\StudFightServer.exe
+C:\Users\The Condmaker\source\repos\StudFightServer\StudFightServer\bin\Debug\net5.0\StudFightServer.deps.json
+C:\Users\The Condmaker\source\repos\StudFightServer\StudFightServer\bin\Debug\net5.0\StudFightServer.runtimeconfig.json
+C:\Users\The Condmaker\source\repos\StudFightServer\StudFightServer\bin\Debug\net5.0\StudFightServer.runtimeconfig.dev.json
+C:\Users\The Condmaker\source\repos\StudFightServer\StudFightServer\bin\Debug\net5.0\StudFightServer.dll
+C:\Users\The Condmaker\source\repos\StudFightServer\StudFightServer\bin\Debug\net5.0\ref\StudFightServer.dll
+C:\Users\The Condmaker\source\repos\StudFightServer\StudFightServer\bin\Debug\net5.0\StudFightServer.pdb
+C:\Users\The Condmaker\source\repos\StudFightServer\StudFightServer\obj\Debug\net5.0\StudFightServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The Condmaker\source\repos\StudFightServer\StudFightServer\obj\Debug\net5.0\StudFightServer.AssemblyInfoInputs.cache
+C:\Users\The Condmaker\source\repos\StudFightServer\StudFightServer\obj\Debug\net5.0\StudFightServer.AssemblyInfo.cs
+C:\Users\The Condmaker\source\repos\StudFightServer\StudFightServer\obj\Debug\net5.0\StudFightServer.csproj.CoreCompileInputs.cache
+C:\Users\The Condmaker\source\repos\StudFightServer\StudFightServer\obj\Debug\net5.0\StudFightServer.dll
+C:\Users\The Condmaker\source\repos\StudFightServer\StudFightServer\obj\Debug\net5.0\ref\StudFightServer.dll
+C:\Users\The Condmaker\source\repos\StudFightServer\StudFightServer\obj\Debug\net5.0\StudFightServer.pdb
+C:\Users\The Condmaker\source\repos\StudFightServer\StudFightServer\obj\Debug\net5.0\StudFightServer.genruntimeconfig.cache
