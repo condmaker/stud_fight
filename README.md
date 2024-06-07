@@ -1,5 +1,5 @@
 # STUD FIGHT
-A simple online turn-based game made with a simple server connecting to clients 
+A simple online turn-based game with a simple server connecting to clients 
 via TCP.
 
 ![stud-fight-selection]
