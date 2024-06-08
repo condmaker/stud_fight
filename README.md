@@ -86,6 +86,10 @@ which does not need to be fast.
 
 ## Network Diagram
 
+### Server-Client
+
+![network-arch-full]
+
 ### Server
 
 ![network-arch]
@@ -104,6 +108,7 @@ C# Thread docs: https://learn.microsoft.com/en-us/dotnet/api/system.threading.th
 
 C# CancellationToken docs: https://learn.microsoft.com/en-us/dotnet/api/system.threading.cancellationtoken?view=net-8.0 
 
+[network-arch-full]: /Images/networkfulldiag.png
 [network-arch-player]: /Images/networkarchplayer.png
 [network-arch]: /Images/networkdiag.png
 [stud-fight-selection]: /Images/StudFight_gcMUlXeMfe.jpg
